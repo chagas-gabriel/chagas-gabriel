@@ -1,16 +1,30 @@
-## Hi there 👋
+# Oi!👋 ― I'm Gabriel!
+ 
 
-<!--
-**chagas-gabriel/chagas-gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Sc. Candidate in Geophysics (IAG - USP) | Member of  [CompGeoLab](https://www.compgeolab.org) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am an undergraduate student in Geophysics at the University of São Paulo's Institute of Astronomy, Geophysics and Atmospheric Sciences ([IAG-USP](https://www.iag.usp.br)), where I conduct research in computational geophysics as a member of [CompGeoLab](https://www.compgeolab.org).
+
+---
+
+
+## Current projects
+
+- Mesh refinement in the 3D inversion of potential-field data through the planting method
+- INGE (Earth's Interior Through Geophysics)
+
+---
+
+## Interests
+
+- **Geophysics**:  Exploration and modeling of Earth's structure, dynamics, and resources through physical methods (seismic, magnetic, gravitational) and computational simulations.
+- **Python programming**: Development of tools with applications in geosciences.
+- **Open Science**: Promoting open, reproducible, and accessible research practices.
+
+
+
