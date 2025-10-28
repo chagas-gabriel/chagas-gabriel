@@ -15,6 +15,7 @@ I am an undergraduate student in Geophysics at the University of São Paulo's In
 
 ## Current projects
 
+- Enhancing the analysis of regression between topography and gravity disturbances for tectonic studies
 - Mesh refinement in the 3D inversion of potential-field data through the planting method
 - INGE (Earth's Interior Through Geophysics)
 
